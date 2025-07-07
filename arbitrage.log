@@ -1,0 +1,7 @@
+2025-07-07 11:26:31,564 [INFO] [2025-07-07 11:26:31] 🔄 Heartbeat: Fetching prices and checking for arbitrage...
+2025-07-07 11:26:31,835 [WARNING] Failed to fetch Binance fees: HTTP 400
+2025-07-07 11:26:32,271 [WARNING] Failed to fetch Coinbase fees: HTTP 503
+2025-07-07 11:26:32,885 [INFO] Updated binance fee to 0.001
+2025-07-07 11:26:32,886 [INFO] Updated coinbase fee to 0.005
+2025-07-07 11:26:32,886 [INFO] Updated kraken fee to 0.0026
+2025-07-07 11:26:33,217 [ERROR] Coinbase API error: HTTP 503
